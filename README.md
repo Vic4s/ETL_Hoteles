@@ -82,6 +82,13 @@ Se ha realizado un análisis comparativo entre los **hoteles propios** y los de 
 ![Valoración Hoteles Propios](./img/valoracion_hoteles_propios.png)
 ![Valoración Hoteles Competencia](./img/valoracion_hoteles_competencia.png)
 
+
+###  Fecha de reservas
+- Las reservas de los hoteles de la competencia se realizaron con menos tiempo de antelación a la fecha de inicio de la estancia, lo que puede reflejar un tipo de cliente distinto que viaja por negocios respecto a nuestro tipo de perfil de cliente que puede ser un perfil más familiar que viaja por ocio.
+
+![Fecha de reserva](./img/fecha_reserva.png)
+
+
 ### 💰 Top Clientes que Más Han Gastado
 Identificamos los **clientes con mayor gasto**, siendo **Ceferino Sosa** el que más ha gastado (**888,93 €**).
 
