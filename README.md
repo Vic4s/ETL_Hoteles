@@ -41,8 +41,7 @@ Las librerías utilizadas incluyen:
 - **pandas**: Manipulación y limpieza de datos.
 - **numpy**: Operaciones numéricas.
 - **matplotlib y seaborn**: Visualización de datos.
-- **requests y BeautifulSoup**: Web scraping.
-- **selenium y webdriver-manager**: Automatización de navegación web.
+- **selenium y webdriver-manager**: Web scraping.
 - **SQLAlchemy y psycopg2**: Conexión y manipulación de bases de datos PostgreSQL.
 
 ## 🛠 Proceso ETL
