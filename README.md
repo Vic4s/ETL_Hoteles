@@ -73,12 +73,14 @@ Se ha realizado un análisis comparativo entre los **hoteles propios** y los de 
 
 **Gráfico:**
 ![Precio por Noche Hoteles Propios](./img/precio_noche_propios.png)
+![Precio por Noche Hoteles Competencia](./img/precio_noche_competencia.png)
 
 ### ⭐ Valoración de Hoteles
 - La valoración media de los hoteles propios es **3.01**, mientras que la de los hoteles de la competencia es **4.41**.
 
 **Gráfico:**
 ![Valoración Hoteles Propios](./img/valoracion_hoteles_propios.png)
+![Valoración Hoteles Competencia](./img/valoracion_hoteles_competencia.png)
 
 ### 💰 Top Clientes que Más Han Gastado
 Identificamos los **clientes con mayor gasto**, siendo **Ceferino Sosa** el que más ha gastado (**888,93 €**).
